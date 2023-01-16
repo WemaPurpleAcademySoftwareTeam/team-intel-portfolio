@@ -17,7 +17,7 @@ export const members = [
     title: "Team Member",
     name: "Eruoghene Iroro",
     bio: "A law student who combines her tech and legal knowledge to help women and girls across Nigeria. She's passionate about sustainability and accessibility ",
-    linkedin: "https://inkedin.com/in/eruoghene-eru-i-a1017723b",
+    linkedin: "https://linkedin.com/in/eruoghene-eru-i-a1017723b",
     github: "https://github.com/e-iroro",
     twitter: "https://twitter.com/eru_js",
     mail: "mailto:iroroeru@gmail.com",
